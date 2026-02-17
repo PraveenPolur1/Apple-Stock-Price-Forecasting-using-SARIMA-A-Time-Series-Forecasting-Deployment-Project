@@ -230,8 +230,7 @@ Apple-Stock-Forecasting/
 │
 ├── Apple_Stock_Analysis.ipynb        # EDA & Model Development
 ├── AppleStockModelDeployment.py      # Streamlit App
-├── Appledataset.csv                  # Historical Data
-├── sarima_model.pkl                  # Trained Model
+├── Appledataset.csv                  # Historical Data                 
 ├── requirements.txt
 └── README.md
 ```
