@@ -63,7 +63,7 @@ df = load_data()
 # Load Trained SARIMA Model
 @st.cache_resource
 def load_model():
-    with open("sarima_model1.pkl", "rb") as file:
+    with open("sarima_model.pkl", "rb") as file:
         model = pickle.load(file)
     return model
 
